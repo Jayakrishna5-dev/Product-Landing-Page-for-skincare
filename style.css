@@ -100,6 +100,10 @@ nav{
     font-size: 1rem;
     margin: 20px 0;
 }
+.intro button a{
+    text-decoration: none;
+    color: white;
+}
 .intro-image img, .about-image img, .why-image img{
     height: 200px;
     width: 100%;
